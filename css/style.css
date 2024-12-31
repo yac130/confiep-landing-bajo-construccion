@@ -67,5 +67,12 @@ html {
     
 @media only screen and (max-width: 640px) {
   
+    .box-titulo-header {
+        padding: 0 20px;
+    }
+    .box-titulo-header h1,
+    .box-header h3{
+        font-size: 2rem;
+    }
 
 }         
