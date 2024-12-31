@@ -53,6 +53,9 @@ html {
             max-width: 150px;
             vertical-align: top;
         }
+        .box-confiep a{
+            text-decoration: none;
+        }
     .box-header h3{
         color: #ca4565;
         font: 2.5rem/1.1 "Poppins", sans-serif;
